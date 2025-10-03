@@ -1,0 +1,18 @@
+# Rust
+/target/
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Game saves and models
+*.json
+!Cargo.toml
+
+# Logs
+*.log
